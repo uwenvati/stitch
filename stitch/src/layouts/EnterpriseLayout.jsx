@@ -3,7 +3,7 @@ import Footer from "../components/Footer";
 
 import PartnersAndPlatformSection from "../components/Enterprise/PartnersAndPlatformSection";
 import PaymentFeaturesSection from "../components/Enterprise/PaymentFeaturesSection";
-import EnterpriseHeroSection from "../components/Enterprise/enterpriseherosection";
+import EnterpriseHeroSection from "../components/Enterprise/EnterpriseHeroSection";
 
 function EnterpriseLayout() {
   return (
