@@ -1,7 +1,7 @@
 import React from "react";
 
 const PaymentFeaturesSection = () => {
-  // Feature data based on the images provided
+  
   const features = [
     {
       title: "Accept online payments",
