@@ -15,7 +15,7 @@ const EnterpriseHeroSection = () => {
         Your browser does not support the video tag.
       </video>
 
-      <div className="absolute inset-0 bg-black bg-opacity-50 z-10" />
+      <div className="absolute inset-0  bg-opacity-50 z-10" />
 
       
       <div className="relative z-20 w-full min-h-screen pt-28 px-6 md:px-12 lg:px-24 flex flex-col justify-center items-start">
